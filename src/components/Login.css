@@ -1,0 +1,11 @@
+.login-form {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.login-form h2 {
+    text-align: center;
+}

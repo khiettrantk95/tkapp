@@ -1,0 +1,27 @@
+/* ApplicationPage.css */
+.application-page {
+    display: flex;
+    height: calc(100vh - 68px); /* Adjust height according to nav */
+  }
+  
+  .application-component {
+    flex: 42;
+    padding: 1rem;
+  }
+  
+  .application-component h2 {
+    margin-top: 0;
+  }
+
+  .toggle-button {
+    flex: 1;
+    color: #000000;
+    border: none;
+    cursor: pointer;
+    position: sticky;
+    
+  }
+
+  .toggle-button:hover {
+    background-color: #ffffff;
+  }
